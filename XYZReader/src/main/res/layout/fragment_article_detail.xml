@@ -83,7 +83,7 @@
         android:contentDescription="@string/action_share"
         android:src="@drawable/ic_share"
         app:backgroundTint="@color/theme_accent"
-        app:fabSize="mini"
+        app:fabSize="normal"
         app:layout_anchor="@id/appBar"
         app:layout_anchorGravity="bottom|right" />
 
